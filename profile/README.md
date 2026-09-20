@@ -14,7 +14,7 @@ export default new CommandBuilder()
 ```
 
 - 📦 [meshcorejs/meshcore.js](https://github.com/meshcorejs/meshcore.js) — the framework, the transports, the plugins
-- 📖 [Documentation](https://meshcorejs.github.io/meshcore.js) — guides and API reference
+- 📖 [Documentation](https://meshcore.js.org) — guides and API reference
 - 🚀 `pnpm add @meshcorejs/client`
 
 Not affiliated with [MeshCore](https://github.com/meshcore-dev/MeshCore) project. MIT licensed.
